@@ -1,5 +1,3 @@
----
-
 # DeepLearning.AI Natural Language Processing Specialization
 
 This repository contains my completed assignments from the **DeepLearning.AI NLP Specialization**.
