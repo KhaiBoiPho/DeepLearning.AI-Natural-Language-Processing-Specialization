@@ -73,11 +73,11 @@ deeplearning-ai-nlp-specialization/
 
 I successfully completed the **DeepLearning.AI Natural Language Processing Specialization**.
 
-* 🏅 [View Certificate here](YOUR_CERTIFICATE_LINK)
+* 🏅 [View Certificate here](https://coursera.org/share/96378c1f137522a3767e0c8d883c5d0f)
 
 <p align="center">  
-  <img src="YOUR_CERTIFICATE_IMAGE.png" alt="DeepLearning.AI NLP Specialization Certificate" width="600"/>  
-</p>  
+  <img src="img/Coursera 16HPHGR9C9V6.png" alt="DeepLearning.AI NLP Specialization Certificate" width="600"/>  
+</p>
 
 ---
 
