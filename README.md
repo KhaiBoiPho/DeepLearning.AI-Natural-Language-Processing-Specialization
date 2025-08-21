@@ -69,6 +69,18 @@ deeplearning-ai-nlp-specialization/
 
 ---
 
+## Certificate
+
+I successfully completed the **DeepLearning.AI Natural Language Processing Specialization**.
+
+* 🏅 [View Certificate here](YOUR_CERTIFICATE_LINK)
+
+<p align="center">  
+  <img src="YOUR_CERTIFICATE_IMAGE.png" alt="DeepLearning.AI NLP Specialization Certificate" width="600"/>  
+</p>  
+
+---
+
 ## Notes
 
 * This repository is for **educational and personal learning purposes only**.
