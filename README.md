@@ -72,6 +72,6 @@ deeplearning-ai-nlp-specialization/
 ## 📌 Notes
 
 * This repository is for **educational and personal learning purposes only**.
-* The exercises are based on the official DeepLearning.AI NLP Specialization, but all solutions here were written by me.
+* The exercises are based on the official DeepLearning.AI NLP Specialization.
 
 ---
