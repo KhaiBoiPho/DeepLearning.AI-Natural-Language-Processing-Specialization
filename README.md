@@ -35,7 +35,7 @@ All code was implemented and updated by myself, and the solutions pass **100% of
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Languages**: Python
 * **Libraries**: NumPy, TensorFlow, Keras, scikit-learn
