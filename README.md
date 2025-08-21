@@ -7,7 +7,7 @@ All code was implemented and updated by myself, and the solutions pass **100% of
 
 ---
 
-## 📚 Courses & Covered Topics
+## Courses & Covered Topics
 
 1. **Natural Language Processing with Probabilistic Models**
 
@@ -43,7 +43,7 @@ All code was implemented and updated by myself, and the solutions pass **100% of
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 deeplearning-ai-nlp-specialization/
@@ -55,7 +55,7 @@ deeplearning-ai-nlp-specialization/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -65,11 +65,11 @@ deeplearning-ai-nlp-specialization/
    ```
 
 2. Open the notebooks and run all cells.
-   ✅ All assignments are guaranteed to pass 100%.
+   All assignments are guaranteed to pass 100%.
 
 ---
 
-## 📌 Notes
+## Notes
 
 * This repository is for **educational and personal learning purposes only**.
 * The exercises are based on the official DeepLearning.AI NLP Specialization.
