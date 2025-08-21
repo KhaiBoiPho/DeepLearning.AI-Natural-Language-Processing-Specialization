@@ -60,8 +60,8 @@ deeplearning-ai-nlp-specialization/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/deeplearning-ai-nlp-specialization.git
-   cd deeplearning-ai-nlp-specialization
+   git clone git@github.com:KhaiBoiPho/DeepLearning.AI-Natural-Language-Processing-Specialization.git
+   cd DeepLearning.AI-Natural-Language-Processing-Specialization
    ```
 
 2. Open the notebooks and run all cells.
